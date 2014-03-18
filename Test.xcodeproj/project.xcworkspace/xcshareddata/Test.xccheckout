@@ -5,14 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>448129DF-1F39-4A36-929A-8F300CEAADAC</string>
 	<string>09A6E5DC-1422-4E5B-B398-CC9C3A410EFB</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Test</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>BB9EBEBB-F177-4FB0-9F7B-E32621853781</key>
-		<string>ssh://github.com/DSAHR/DevTest.git</string>
 		<key>E1A4CAC7-8DE5-497B-927E-3A1647C3B992</key>
 		<string>https://github.com/DSAHR/Test.git</string>
 	</dict>
@@ -20,19 +17,14 @@
 	<string>Test.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>44EA0261-F981-43C4-B780-80BC472A489E</key>
 		<key>E1A4CAC7-8DE5-497B-927E-3A1647C3B992</key>
 		<string>../..</string>
-		<key>BB9EBEBB-F177-4FB0-9F7B-E32621853781</key>
-		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/DSAHR/DevTest.git</string>
 	<string>https://github.com/DSAHR/Test.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>44EA0261-F981-43C4-B780-80BC472A489E</string>
 	<string>E1A4CAC7-8DE5-497B-927E-3A1647C3B992</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
@@ -40,15 +32,6 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BB9EBEBB-F177-4FB0-9F7B-E32621853781</string>
-			<key>IDESourceControlWCCName</key>
-			<string>Test</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>44EA0261-F981-43C4-B780-80BC472A489E</string>
 			<string>E1A4CAC7-8DE5-497B-927E-3A1647C3B992</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Test</string>
