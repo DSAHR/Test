@@ -21,6 +21,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     //Patß
     //Gino coucou
+    //Gino encore
 }
 
 - (void)didReceiveMemoryWarning
